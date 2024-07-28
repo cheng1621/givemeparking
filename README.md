@@ -13,6 +13,7 @@ Use **pip3 install {package}** to install the required module.
 #### How to use.
 1. Clone this repo to **devpod**
 2. Update **cookie.txt** and **date.txt**
-3. run **python3 parking.py**
+3. Update **line 38** on **parking.py** with your car plate.  
+4. run **python3 parking.py**
 
 
